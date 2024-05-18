@@ -57,6 +57,7 @@ My name is Nuno and i'm a 24 year old software developer from Portugal!
 ### IDE's 💻
 ![Static Badge](https://img.shields.io/badge/VISUAL%20STUDIO-PURPLE?style=flat-square&logo=visualstudio&logoColor=%23fff&labelColor=%235C2D91&color=%235C2D91)
 ![Static Badge](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-BLUE?style=flat-square&logo=visualstudiocode&logoColor=%23fff&labelColor=%23007ACC&color=%23007ACC)
+![Static Badge](https://img.shields.io/badge/PROJECT%20IDX%20-PURPLE?style=flat-square&logo=google&logoColor=%23FFFFFF&labelColor=%23543da8&color=%23543da8)
 ![Static Badge](https://img.shields.io/badge/ANDROID%20STUDIO-GREEN?style=flat-square&logo=android&color=%233DDC84)
 ![Static Badge](https://img.shields.io/badge/X%20CODE-BLUE?style=flat-square&logo=xcode&logoColor=%23fff&labelColor=%23147EFB&color=%23147EFB)
 
