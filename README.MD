@@ -62,5 +62,5 @@ My name is Nuno and i'm a 24 year old software developer from Portugal!
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunosantoss&theme=dark&langs_count=3)](https://github.com/nunosantoss) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunosantoss&theme=dark&langs_count=3)](https://github.com/nunosantoss)
 
