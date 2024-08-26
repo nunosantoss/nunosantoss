@@ -26,8 +26,8 @@ My name is Nuno and i'm a 24 year old software developer from Portugal!
 
 
 ### Software Development 👨‍💻
-![Static Badge](https://img.shields.io/badge/C%23-BLUE?style=flat-square&logo=CSHARP&logoColor=%23fff&labelColor=%239843af&color=%239843af)
-![Static Badge](https://img.shields.io/badge/ASP.NET%20CORE%20MVC-BLUE?style=flat-square&logo=CSHARP&logoColor=%23ffffff&labelColor=%239843af&color=%239843af)
+![Static Badge](https://img.shields.io/badge/C%23-BLUE?style=flat-square&logo=dotnet&logoColor=%23fff&labelColor=%239843af&color=%239843af)
+![Static Badge](https://img.shields.io/badge/ASP.NET%20CORE%20MVC-BLUE?style=flat-square&logo=dotnet&logoColor=%23ffffff&labelColor=%239843af&color=%239843af)
 
 ### Web Development 🌐
 
